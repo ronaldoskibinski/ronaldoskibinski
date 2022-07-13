@@ -55,15 +55,14 @@ Call me to say hello!!
 <p align="center">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="PHP" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JavaScript.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Figma-Dark.svg" alt="Figma" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="HTML" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TypeScript.svg" alt="TS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="MySQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PostgreSQL-Dark.svg" alt="PGSQL" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="Laravel" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Dark.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/JQuery.svg" alt="jQuery" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Sass.svg" alt="Sass" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Bootstrap.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
@@ -75,6 +74,7 @@ Call me to say hello!!
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="CSharp" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="Android Studio" height="40" style="vertical-align:top; margin:4px">
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" alt="Unity" height="40" style="vertical-align:top; margin:4px">
-<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px"> 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
 
