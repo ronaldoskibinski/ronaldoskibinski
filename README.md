@@ -78,7 +78,7 @@ Call me to say hello!!
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="Blender" height="40" style="vertical-align:top; margin:4px"> 
 <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Python-Dark.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 
-## 🧰 Certificações | Certifications:
+## 🏅 Certificações | Certifications:
 ![scrum-foundation-professional-certificate-sfpc 1 (3)](https://user-images.githubusercontent.com/23247714/232800572-b110cbe6-a784-4b0f-9f51-16c7552069fd.png)
 
 
