@@ -39,7 +39,7 @@ I highly value transparency, sincerity and honesty, whether to assume responsibi
 I am outgoing and very sociable, I make friends easily..
 
 As a Hobbie, I love spending time in Music, learning different instruments and singing; Read (Self-help books like Think and Grow Rich);
-Walking outdoors and spending time with the family.
+Walking outdoors and spending time with my family.
 
 Call me to say hello!!
 
